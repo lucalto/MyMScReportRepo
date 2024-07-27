@@ -1,2 +1,5 @@
-pandasnumpy
-matplotlib
+pandas==2.2.2
+numpy==2.0.1
+nltk==3.8.1
+PyMuPDf==1.24.9
+
