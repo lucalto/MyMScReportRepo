@@ -5,7 +5,12 @@
 myenv/
 env/
 .vscode/
-myprojenv
+/myprojenv
 
 Bapat.ipynb
-Obj4_GWDetection/ss/
+
+/images
+**/ss
+/Obj1_NewsStock/ss
+/Obj2_VolatilityPrediction/ss
+/Obj4_GWDetection/ss
